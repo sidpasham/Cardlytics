@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Cardlytics\CardlyticsAssesment\FindNthElementFromLinkedList\bin\Debug\FindNthElementFromLinkedList.exe.config
+E:\Visual Studio Projects\Cardlytics\CardlyticsAssesment\FindNthElementFromLinkedList\bin\Debug\FindNthElementFromLinkedList.exe
+E:\Visual Studio Projects\Cardlytics\CardlyticsAssesment\FindNthElementFromLinkedList\bin\Debug\FindNthElementFromLinkedList.pdb
+E:\Visual Studio Projects\Cardlytics\CardlyticsAssesment\FindNthElementFromLinkedList\obj\Debug\FindNthElementFromLinkedList.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Cardlytics\CardlyticsAssesment\FindNthElementFromLinkedList\obj\Debug\FindNthElementFromLinkedList.exe
+E:\Visual Studio Projects\Cardlytics\CardlyticsAssesment\FindNthElementFromLinkedList\obj\Debug\FindNthElementFromLinkedList.pdb

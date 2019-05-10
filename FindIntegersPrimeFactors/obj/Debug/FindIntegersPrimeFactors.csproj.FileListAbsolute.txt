@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Cardlytics\CardlyticsAssesment\FindIntegersPrimeFactors\bin\Debug\FindIntegersPrimeFactors.exe.config
+E:\Visual Studio Projects\Cardlytics\CardlyticsAssesment\FindIntegersPrimeFactors\bin\Debug\FindIntegersPrimeFactors.exe
+E:\Visual Studio Projects\Cardlytics\CardlyticsAssesment\FindIntegersPrimeFactors\bin\Debug\FindIntegersPrimeFactors.pdb
+E:\Visual Studio Projects\Cardlytics\CardlyticsAssesment\FindIntegersPrimeFactors\obj\Debug\FindIntegersPrimeFactors.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Cardlytics\CardlyticsAssesment\FindIntegersPrimeFactors\obj\Debug\FindIntegersPrimeFactors.exe
+E:\Visual Studio Projects\Cardlytics\CardlyticsAssesment\FindIntegersPrimeFactors\obj\Debug\FindIntegersPrimeFactors.pdb

@@ -1,0 +1,8 @@
+E:\Visual Studio Projects\Cardlytics\CardlyticsAssesment\FindTriangleTypeTests\obj\Debug\FindTriangleTypeTests.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Cardlytics\CardlyticsAssesment\FindTriangleTypeTests\bin\Debug\FindTriangleTypeTests.dll
+E:\Visual Studio Projects\Cardlytics\CardlyticsAssesment\FindTriangleTypeTests\bin\Debug\FindTriangleTypeTests.pdb
+E:\Visual Studio Projects\Cardlytics\CardlyticsAssesment\FindTriangleTypeTests\bin\Debug\FindTriangleType.exe
+E:\Visual Studio Projects\Cardlytics\CardlyticsAssesment\FindTriangleTypeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Visual Studio Projects\Cardlytics\CardlyticsAssesment\FindTriangleTypeTests\bin\Debug\FindTriangleType.pdb
+E:\Visual Studio Projects\Cardlytics\CardlyticsAssesment\FindTriangleTypeTests\obj\Debug\FindTriangleTypeTests.dll
+E:\Visual Studio Projects\Cardlytics\CardlyticsAssesment\FindTriangleTypeTests\obj\Debug\FindTriangleTypeTests.pdb

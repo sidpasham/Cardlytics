@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Cardlytics\CardlyticsAssesment\FindTriangleType\obj\Debug\FindTriangleType.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Cardlytics\CardlyticsAssesment\FindTriangleType\bin\Debug\FindTriangleType.exe.config
+E:\Visual Studio Projects\Cardlytics\CardlyticsAssesment\FindTriangleType\bin\Debug\FindTriangleType.exe
+E:\Visual Studio Projects\Cardlytics\CardlyticsAssesment\FindTriangleType\bin\Debug\FindTriangleType.pdb
+E:\Visual Studio Projects\Cardlytics\CardlyticsAssesment\FindTriangleType\obj\Debug\FindTriangleType.exe
+E:\Visual Studio Projects\Cardlytics\CardlyticsAssesment\FindTriangleType\obj\Debug\FindTriangleType.pdb

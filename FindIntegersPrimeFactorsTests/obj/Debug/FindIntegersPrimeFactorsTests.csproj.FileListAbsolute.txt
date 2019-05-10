@@ -1,0 +1,8 @@
+E:\Visual Studio Projects\Cardlytics\CardlyticsAssesment\FindIntegersPrimeFactorsTests\bin\Debug\FindIntegersPrimeFactorsTests.dll
+E:\Visual Studio Projects\Cardlytics\CardlyticsAssesment\FindIntegersPrimeFactorsTests\bin\Debug\FindIntegersPrimeFactorsTests.pdb
+E:\Visual Studio Projects\Cardlytics\CardlyticsAssesment\FindIntegersPrimeFactorsTests\bin\Debug\FindIntegersPrimeFactors.exe
+E:\Visual Studio Projects\Cardlytics\CardlyticsAssesment\FindIntegersPrimeFactorsTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Visual Studio Projects\Cardlytics\CardlyticsAssesment\FindIntegersPrimeFactorsTests\bin\Debug\FindIntegersPrimeFactors.pdb
+E:\Visual Studio Projects\Cardlytics\CardlyticsAssesment\FindIntegersPrimeFactorsTests\obj\Debug\FindIntegersPrimeFactorsTests.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Cardlytics\CardlyticsAssesment\FindIntegersPrimeFactorsTests\obj\Debug\FindIntegersPrimeFactorsTests.dll
+E:\Visual Studio Projects\Cardlytics\CardlyticsAssesment\FindIntegersPrimeFactorsTests\obj\Debug\FindIntegersPrimeFactorsTests.pdb
